@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>images/photo1.jpeg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/charity.png</file>
+        <file>icons/complains.png</file>
+        <file>icons/gallery.png</file>
+        <file>icons/info.png</file>
+        <file>icons/invest2.png</file>
+        <file>icons/news.png</file>
+        <file>icons/obodonlashtirish.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/20x20/back.png</file>
+        <file>icons/20x20/drawer.png</file>
+        <file>icons/20x20/menu.png</file>
+        <file>icons/vacancy.png</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>About.qml</file>
+        <file>CharityPage.qml</file>
+    </qresource>
+</RCC>
