@@ -66,37 +66,41 @@ Page {
         //        ListElement { name: "Todo List"; icon: "pics/TodoList_48.png" }
         //        ListElement { name: "Contacts"; icon: "pics/AddressBook_48.png" }
         ListElement {
-            title: "Info";
+            title: "Mahallam haqida";
             source: "qrc:/pages/About.qml";
             icon: "qrc:/icons/icons/info.png" }
         ListElement {
-            title: "Invest";
+            title: "Investitsiya";
             source: "qrc:/pages/InvestPage.qml";
             icon: "qrc:/icons/icons/invest2.png" }
         ListElement {
-            title: "Gallery";
+            title: "Galeriya";
             source: "qrc:/pages/GalleryPage.qml";
             icon: "qrc:/icons/icons/gallery.png"  }
         ListElement {
-            title: "News";
+            title: "Yangiliklar";
             source: "qrc:/pages/NewsPage.qml";
             icon: "qrc:/icons/icons/news.png"  }
         ListElement {
-            title: "Charity";
+            title: "Ehson";
             source: "qrc:/pages/CharityPage.qml";
             icon: "qrc:/icons/icons/charity.png"  }
         ListElement {
-            title: "Obondlashtirish";
+            title: "Obodonlashtirish";
             source: "qrc:/pages/ObondlashtirishPage.qml";
             icon: "qrc:/icons/icons/obodonlashtirish.png" }
         ListElement {
-            title: "Unemplyment";
+            title: "Ish o'rinlari";
             source: "qrc:/pages/UnemplymentPage.qml";
-            icon: "qrc:/icons/icons/vacancy.png" }
+            icon: "qrc:/icons/icons/employee.png" }
         ListElement {
-            title: "Complains";
+            title: "Ariza va takliflar";
             source: "qrc:/pages/ComplainsPage.qml";
             icon: "qrc:/icons/icons/complains.png" }
+        ListElement {
+            title: "Rais qabuliga yozilish";
+            source: "qrc:/pages/BookingPage.qml";
+            icon: "qrc:/icons/icons/booking.png" }
 
     }
     GridView {

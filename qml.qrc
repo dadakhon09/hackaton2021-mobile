@@ -16,10 +16,19 @@
         <file>icons/20x20/back.png</file>
         <file>icons/20x20/drawer.png</file>
         <file>icons/20x20/menu.png</file>
+        <file>icons/booking.png</file>
         <file>icons/vacancy.png</file>
+        <file>icons/employee.png</file>
     </qresource>
     <qresource prefix="/pages">
         <file>About.qml</file>
         <file>CharityPage.qml</file>
+        <file>ComplainsPage.qml</file>
+        <file>GalleryPage.qml</file>
+        <file>InvestPage.qml</file>
+        <file>NewsPage.qml</file>
+        <file>ObondlashtirishPage.qml</file>
+        <file>UnemplymentPage.qml</file>
+        <file>BookingPage.qml</file>
     </qresource>
 </RCC>

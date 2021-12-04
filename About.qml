@@ -38,7 +38,7 @@ Page {
 
     function getData() {
         var xmlhttp = new XMLHttpRequest();
-        var url = "http://mening-mahallam.herokuapp.com/api/about/2";
+        var url = "http://mening-mahallam.herokuapp.com/api/about/153";
         var res;
 
         xmlhttp.onreadystatechange=function() {
