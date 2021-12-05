@@ -101,6 +101,10 @@ Page {
             title: "Rais qabuliga yozilish";
             source: "qrc:/pages/BookingPage.qml";
             icon: "qrc:/icons/icons/booking.png" }
+        ListElement {
+            title: "Xarajatlar hisobi";
+            source: "qrc:/pages/ExpensesPage.qml";
+            icon: "qrc:/icons/icons/expenses.png" }
 
     }
     GridView {

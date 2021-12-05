@@ -19,6 +19,7 @@
         <file>icons/booking.png</file>
         <file>icons/vacancy.png</file>
         <file>icons/employee.png</file>
+        <file>icons/expenses.png</file>
     </qresource>
     <qresource prefix="/pages">
         <file>About.qml</file>
@@ -30,5 +31,6 @@
         <file>ObondlashtirishPage.qml</file>
         <file>UnemplymentPage.qml</file>
         <file>BookingPage.qml</file>
+        <file>ExpensesPage.qml</file>
     </qresource>
 </RCC>
